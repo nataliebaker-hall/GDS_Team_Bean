@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0e6951e0ffef22343889e87c7ed52bb1
+timeCreated: 1488031052
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Back to the future 2002
+  fontNames:
+  - Back to the future 2002
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
